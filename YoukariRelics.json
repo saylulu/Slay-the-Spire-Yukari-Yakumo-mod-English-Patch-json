@@ -1,0 +1,45 @@
+﻿{
+
+	"Boundary_crack":{
+		"NAME":"Gap of Realm",
+		"FLAVOR":"After you arrive at High towner,you will find that High towner suppresses your power.",
+		"DESCRIPTIONS":["When you take #b1 #bPower card,Gain 1 #yRealm ."]
+
+	},
+
+	"Memoryfragments_purpleEX": {
+		"NAME":"Memory pieces",
+		"FLAVOR":"This time,I will and I must save her...",
+		"DESCRIPTIONS":["When you beat an elite enemy,you will get 1 memory piece(At most 4),When you get memory piece,lost #b30% present HP;For each memory fragment owned, the damage taken increases 5%;If you have #b2 memory pieces，Draw  #b1 more card every round(At most 2 cards)"]
+	},
+
+	"Antimatter_spacedebris": {
+		"NAME":"Space debris of Antimatter",
+		"FLAVOR":"When you get this debris,you feel that the towner’s pressure has been reduced.",
+		"DESCRIPTIONS":["When you take power card,To random enemy Gain #b3 #yOokami_Kakushi "]
+	},
+
+	"Parasol_purpleEX": {
+		"NAME":"Purple Parasol",
+		"FLAVOR":"This Parasol has special power，this is belong to her",
+		"DESCRIPTIONS":["Every time when you Gain #yPositivematter , #yAntimatter，Gain 1 Additional Effects"]
+	},
+
+	"Seventeenyearold_girl_Forever": {
+		"NAME":"Girl who are 17 forever",
+		"FLAVOR":"For(data delete),Every year past，My body will turn to the same one as last",
+		"DESCRIPTIONS":["At the end of battle, if your #yRealm reaches the maximum, gain 2 MAXHP"]
+	},
+
+	"ThegodofHakurei_purpleEX": {
+		"NAME":"The God of Hakurei",
+		"FLAVOR":"This is a brand given to you from Reimu. It can enhance your control over the Ookami_Kakushi.",
+		"DESCRIPTIONS":["Every time you reduce your #yRealm , give all enemies 3 amount of Ookami_Kakushi"]
+	},
+
+	"TheEssenceOfRealm": {
+		"NAME": "The Essence of Realm",
+		"FLAVOR":"Realm is one of the essence of the law of all things, and any concept rule must depend on it. Without Realm , the universe will be chaotic and disordered",
+		"DESCRIPTIONS":["At the end of turn,if you don't have Realm ,gain a block equal to the discard stack ,shuffle your discard pile and put it in the draw pile"]
+	}
+}

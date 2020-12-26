@@ -1,0 +1,216 @@
+﻿{
+
+	"PositivematterPower": {
+
+		"NAME": "PositiveMatter",
+
+		"DESCRIPTIONS": ["Every time when you apply #yHploss , Deal additional #b"," times that #yDamage , Remove all amount at the end of turn"]
+
+	},
+
+	"AntimatterPower":{
+
+		"NAME": "Antimatter",
+
+		"DESCRIPTIONS": ["When you Gain #yBlock from your card, Gain additional #b"," times #yBlock , Remove all amount at the end of turn"]
+
+	},
+
+	"MemoryfragmentsPower_purpleEX": {
+
+		"NAME": "Memoryfragments",
+
+		"DESCRIPTIONS": ["Increases damage taken by 5% per amount. Now it's #b", " amount"]
+	},
+
+	"DMGremovePower": {
+
+		"NAME": "DamageRemove",
+
+		"DESCRIPTIONS": ["You will neutralize #b"," of times enemy’s attack and save that Damage numerical value"]
+
+	},
+
+	"DMGreturnPower": {
+
+		"NAME": "DamageReturn",
+
+		"DESCRIPTIONS": ["Saved #b"," Damage"]
+	},
+
+	"RealmPower": {
+
+		"NAME": "Realm",
+
+		"DESCRIPTIONS": ["Now you have #b"," #yRealm .","Your #yRealm cannot over 5,When you use certain special Cards,It will cost your #yRealm so that can make additional effects,at the end of battle, Every 1 #yRealm , will heal 1 HP"]
+	},
+
+	"NextturnCardPower": {
+
+		"NAME": "Next turn Card",
+
+		"DESCRIPTIONS": ["Before next turn starts, Gain #b"," Damagerelease"]
+	},
+
+	"AntimatterCLOCK": {
+
+		"NAME": "Antimatter Clock",
+
+		"DESCRIPTIONS": ["Antimatter will not work in this round"]
+	},
+
+	"Ookami_KakushiPower": {
+
+		"NAME": "Ookamikakushi",
+
+		"DESCRIPTIONS": ["When you deal #yHploss to enemy"," NL Enemy who has been Ookami_Kakushi #ywill receive #ydamage that the same as Ookami_Kakushi’s number;Then #yNumbers reduce 1"]
+	},
+
+	"PositiveMatterAntimatterUniverse_Power": {
+
+		"NAME": "Universe of Matter",
+
+		"DESCRIPTIONS":["When you use a card that isn’t attack,Apply #b","  #yHploss to Random enemy "]
+	},
+
+	"WatchEyeChangePower": {
+
+		"NAME": "Unchanged Eyes",
+
+		"DESCRIPTIONS":["When you deal damage besides #yHploss, You will deal additional half of your damage as #yHploss, Retain #b"," Round"]
+	},
+
+	"BaitToxicabitPower": {
+
+		"NAME": "Bait Toxic Trap",
+
+		"DESCRIPTIONS":["Before next round starts, when you receive damage, Apply #b"," #yPoison and 2 #yVulnerable to Attcker"]
+	},
+
+	"FourBoundaryPower": {
+
+		"NAME": "Realm「Four Boundary」",
+
+		"DESCRIPTIONS":["Every time you gain a positive effect, and this effect is different from the previous positive effect,you will get #b"," #yBlock at the end of the turn"]
+	},
+
+	"PerpetualMotionMachine": {
+
+		"NAME": "Perpetual Motion Machine",
+
+		"DESCRIPTIONS":["At the end of turn,if the last card you use is skill card"," number #yOokamikakushi to all enemy "]
+	},
+
+	"CommonSenseAntiCommonSensePower": {
+
+		"NAME": "Realm of Commonsense",
+
+		"DESCRIPTIONS":["In your turn, when You play two cards of different Card_Type in a row, Gain #b"," Realm "]
+	},
+
+	"FragmentationRealmPower": {
+
+		"NAME": "Fragmentation of Realm",
+
+		"DESCRIPTIONS":["When combat has finished,you can choose what you want in the room（Only works for one time）"]
+	},
+
+	"TwoAndThreeElementRealmPower": {
+
+		"NAME": "「Second-Third Element」",
+
+		"DESCRIPTIONS":["The damage you took this round will be healed next turn"]
+	},
+
+	"HpHealinNextTurn": {
+
+		"NAME": "HP Healing Next turn",
+
+		"DESCRIPTIONS":["Heal yourself #b"," Hp at the start of next round"]
+	},
+
+	"WangLiang_OokamiKakushi_Power": {
+
+		"NAME": "OokamiKakushi of Yukari Yukumo",
+
+			"DESCRIPTIONS":["Next #b"," times being attacked,If damage isn’t from Positivematter,then target will lost 5% of that target max HP"]
+
+	},
+
+	"DoubleDeathButterflyPower": {
+
+		"NAME":"「Butterfly dies Twice」",
+
+		"DESCRIPTIONS":["Increase the maximum value of Realm to 10,If your #yRealm higher than 5,When your #yRealm reduce ,Gain "," "]
+	},
+
+	"Human_Monster_RealmPower": {
+
+		"NAME":"「Realm between Human and Monster」",
+
+		"DESCRIPTIONS":["Your next #b"," cards will be played twice"]
+	},
+
+	"ContainerChangePower": {
+
+		"NAME":"「Change of Container」",
+
+		"DESCRIPTIONS":["At the end of your turn, No longer remove #yPositivematter and #yAntimatter "]
+	},
+
+	"UniverseChoicePower": {
+
+		"NAME": "The Chosen Girl",
+
+		"DESCRIPTIONS":["When you are going to receive fatal damage,your HP will locked at 1,and will heal #b"," %, HP at the start of next round, effect will continue to next round starts"]
+	},
+
+	"ProofOfUnderstandingPower": {
+
+		"NAME": "Proof of Understanding",
+
+		"DESCRIPTIONS":["When enemy has been Ookamikakushi, Takes Hploss equal to number of OokamiKakushi at end of turn,And Ookamikakushi +1；And it will not reduce because of Hploss "]
+	},
+
+	"UndeadAttractedbythetowerPower": {
+
+		"NAME": "The undead induced by the tower",
+
+		"DESCRIPTIONS":["Being attacked every 4 times will lose 5% of buff owner max healthy point; When you take 6 Attack Card,Receive 10 damage。（Now you use #b"," Cards)"]
+	},
+
+	"ForceddeathEXPower": {
+
+		"NAME": "Forced Death",
+
+		"DESCRIPTIONS":["When buff owner receive damage, Every amount of #yForced #yDeath will reduce damage #y10% ;When you get 10 amount ,all of aomunt will be removed（Now this amount have #b"," Level）"]
+	},
+
+	"PriceofRealmPowerPurpleEX": {
+
+		"NAME": "Price of realm",
+
+		"DESCRIPTIONS":["Every time you draw a card, lose #b"," HP;Remove this power at the end of turn"]
+	},
+
+	"ComputingthefuturePowerpurpleEX": {
+
+		"NAME": "Price of realm",
+
+		"DESCRIPTIONS":["At the end of your turn, if your draw pile is greater than or equal to 20 , #yScry #b"," at the end of turn"]
+	},
+
+	"BoundaryofExterminationPowerpurpleEX": {
+
+		"NAME": "Boundary Extermination",
+
+		"DESCRIPTIONS":["At the end of your turn, if your draw pile is greater than or equal to 20 ,Deal #b"," % player's MAX HP numbers Hploss "]
+	},
+
+	"LoveAcrossDimensionsPower": {
+
+		"NAME": "Love Across Dimensions",
+
+		"DESCRIPTIONS":["You can't get #yPositiveMatter and #yAntimatter anymore;but at the start of turn gain 2 Strength,and For every 5 Realm layers obtained, 1 Metallicize was obtained by consuming 5 Realm layers,and the first card played in each round will be played twice"]
+	}
+}

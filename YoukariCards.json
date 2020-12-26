@@ -1,0 +1,343 @@
+{
+  "Defend_purpleEX":{
+    "NAME":"Defend",
+    "DESCRIPTION":"Gain !B! Block "
+  },
+  "AT_purpleEX": {
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! Damage"
+  },
+  "Observe_purple_1":{
+    "NAME":"Surge of Realm",
+    "DESCRIPTION":"Deal !D! Damage , NL Deal !M! Hploss "
+  },
+  "Observe_purple_2":{
+    "NAME":"Return of Realm",
+    "DESCRIPTION":"Gain !B! Block , NL Gain !M! Realm "
+  },
+
+
+  "D_release_purple": {
+    "NAME":"Damage Release",
+    "DESCRIPTION":"Deal DamageReturn's amount Damage,Release all the DamageReturn ; Retain ; Exhaust "
+  },
+  "Worldmountain_purple":{
+    "NAME":"Everywhere is the top",
+    "DESCRIPTION":"Deal !D! Damage to all enemy 3 times"
+  },
+  "MeetDecomposer_purple":{
+    "NAME":"Body mincer",
+    "DESCRIPTION":"Gain !B! Block ; Realm1 :Gain additional 4 Block and Draw !M! Cards"
+  },
+  "Charmbait_purple":{
+    "NAME":"Charm trap",
+    "DESCRIPTION":"Deal !D! Damage to all enemy; Realm 1 :Apply 6 Hploss to random enemy and Apply !M! Ookami_kakushi "
+  },
+  "Umbrella_purple":{
+    "NAME":"Yukari’s Umbrella",
+    "DESCRIPTION":"To Random target Deal !D! Damage And Apply !M! Ookami_kakushi 3 Times"
+  },
+  "AdvanceAttack_purple": {
+    "NAME":"Dash Attack",
+    "DESCRIPTION":"Deal !D! damage; NL Draw 1 card; NL Gain !M! Block in the next turn"
+  },
+  "RuleDissolution_purple": {
+    "NAME":"Dissolution of rules",
+    "DESCRIPTION":" Exhaust 1 Card; NL Gain 3 Realm ; NL Draw 1 card ; Exhaust "
+  },
+  "ExistenceContinue_purple": {
+    "NAME":"Exist and Extend",
+    "DESCRIPTION":"Deal !D! Damage; Realm 3 : If your Positivematter is 0; Gain !M! Strength "
+  },
+  "DimensionStaggered_purple": {
+    "NAME":"Dimension Staggered",
+    "DESCRIPTION":"Gain !B! Block; NL and !M! Realm "
+  },
+  "StateErode_purple": {
+    "NAME":"Erode of Realm",
+    "DESCRIPTION":"Deal !D! Damage, NL Apply !M! Ookami_kakushi "
+  },
+  "Line_surface_state_purple": {
+    "NAME":" Line and Surface",
+    "DESCRIPTION":"Gain !B! Block;When the number of your Positivematter has increased,Move this card from discard pile to your hand"
+  },
+  "SfantasyHide_purple": {
+    "NAME":"Hide of Fantasy",
+    "DESCRIPTION":"Gain !B! Block,Choose two cards and Retain it "
+  },
+  "StateDuplicate_purple": {
+    "NAME":"Duplicate of Realm",
+    "DESCRIPTION":"Gain !B! Block, Realm 1 :Choose one of the card in discard pile and put it on the top of draw pile"
+  },
+  "OmniscientAndOmnipotent_Monster_purple":{
+    "NAME":"Omniscient's Monster",
+    "DESCRIPTION":"Apply !D! Hploss ; Increased by Realm. 1 Realm increases 2 times"
+  },
+  "SharpContractionReality_purple":{
+    "NAME":"Contracting Reality",
+    "DESCRIPTION":"Deal !D! Damage ; Realm 2 :Gain 1 Antimatter ."
+  },
+  "Mirror_FormAndEmptin_purple":{
+    "NAME":"「Desire and Zero」",
+    "DESCRIPTION":"If your Positivematter , Antimatter is 0, Gain !M! Realm ,and Draw 1 card "
+  },
+  "Shallow_ocean_purpleEX": {
+    "NAME":"Shallow ocean",
+    "DESCRIPTION":"Deal X Hploss to all enemy . X is half of your draw pile; Exhaust .",
+    "UPGRADE_DESCRIPTION":"Deal X Hploss to all enemy . X is half of your draw pile."
+  },
+  "Realm_recovery_purpleEX": {
+    "NAME":"Realm recovery",
+    "DESCRIPTION":"Play a card from the bottom of your draw pile and Exhaust it; (target is random)"
+  },
+
+
+
+
+  "WeekHit_purple":{
+    "NAME":"Weak Hit",
+    "DESCRIPTION":"Deal !D! Damage; NL Realm 1 :Apply !M! Weak and Vulnerable "
+  },
+  "MNeedle_purple": {
+    "NAME":"Needle of Monster",
+    "DESCRIPTION":"Deal !D! Damage; NL Realm 3 :Remove enemy’s random buff(Besides intangible ),If removed buff is Strength, then you will steal that buff."
+  },
+  "PurpleNeedle_purple":{
+    "NAME":"Purple Needle",
+    "DESCRIPTION":"Deal !D! Damage;If enemy doesn’t have negative buff and Hp less than 15,then eliminated target"
+  },
+  "OpenedBox_purple":{
+    "NAME":"Pandora's box",
+    "DESCRIPTION":"Apply !M! Ookami_kakushi, NL 2 Weak ."
+  },
+  "ButterflyHiddenTemple_purple":{
+    "NAME":"Temple’s Butterfly",
+    "DESCRIPTION":"Gain !B! Block; Realm 3 :If your Antimatter is 0, NL Gain !M! Dexterity "
+  },
+  "PositiveMatter_Antimatter_Universe_purple":{
+    "NAME":"Universe's Matter",
+    "DESCRIPTION":"After you using this card,every time when you use a card that isn’t attack card,you will deal 3 Hploss to random enemy. "
+  },
+  "EighthInstrument_OneDividesIntoTwo_purple":{
+    "NAME":"Sword of God",
+    "DESCRIPTION":"Deal !D! Damage NL Damage increases the target's Ookami_kakushi by !M! times"
+  },
+  "WatchEChange_purple": {
+    "NAME":"Unchanged Eyes",
+    "DESCRIPTION":"When you deal damage besides Hploss, you will deal additional half of your damage as Hploss, Keep 1 Round"
+  },
+  "WingOfChimera_purple":{
+    "NAME":"Wings of Chimera",
+    "DESCRIPTION":"Gain !B! Block NL Realm 3 : Gain !M! Thorns "
+  },
+  "RuptureOfTimeAndSpace_purple": {
+    "NAME":"Gap of Time",
+    "DESCRIPTION":"Reduce enemy X Strength, Apply X Vulnerable ; Exhaust (X is your Realm )",
+    "UPGRADE_DESCRIPTION":"Reduce enemy X+3 Strength, Apply X+3 Vulnerable ; Exhaust (X is your Realm )"
+  },
+  "Anti_communist_purple": {
+    "NAME":" Anti-communist",
+    "DESCRIPTION":"Gain !B! Block ;Make one enemy’s negative buff +4",
+    "UPGRADE_DESCRIPTION":"Gain !B! Block ;Make one enemy’s negative buff became two times he has; Exhaust  "
+  },
+  "StretchesForeverDream_purple":{
+    "NAME":"Dream forever ",
+    "DESCRIPTION":"Gain !B! Block ; NL Realm 2 :Gain 1 Positivematter "
+  },
+  "Photoelasticity_Doppler_Effect_purple":{
+    "NAME":"「Doppler Effect」",
+    "DESCRIPTION":"Apply !D! Hploss X times,Apply X Poison "
+  },
+  "Bait_Toxicbait_purple":{
+    "NAME":"Toxic bait",
+    "DESCRIPTION":"Gain !B! Block,After next turn starts if you be attacked, you will Apply !M! Poison and 2 Vulnerable to attacker."
+  },
+  "Bait_HighSpeedFlying_purple":{
+    "NAME":"Supersonic Bat",
+    "DESCRIPTION":"Deal !D! Damage to all enemies, and Apply !M! Ookami_kakushi ."
+  },
+  "Nest_LightFlightworm_purple":{
+    "NAME":"「Flighting Swarm」",
+    "DESCRIPTION":"Deal !D! Damage, Gain !B! Block; If your Positivematter is 0, Apply !M! Hploss ;If your Antimatter is 0, Gain additional !M! Block"
+  },
+  "Mirror_FourBoundary_purple":{
+    "NAME":"「Four Boundaries」",
+    "DESCRIPTION":"Every time you gain a positive effect, and this effect is different from the previous positive effect,you will get !M! Block once at the end of the turn",
+    "UPGRADE_DESCRIPTION":" Innate ,every time you gain a positive effect, and this effect is different from the previous positive effect,you will get !M! Block once at the end of the turn"
+  },
+  "Boundary_ObjectiveBoundary_purple":{
+    "NAME":"「Objective Boundary」",
+    "DESCRIPTION":"Remove all your Realm ;Every Realm will give your 1 Plated Armor ",
+    "UPGRADE_DESCRIPTION": "Remove all your Realm ;Every Realm will give your 1 Plated Armor; Gain additional 3 Plated Armor"
+  },
+  "ExternalForce_HighSpeedFlying_purple":{
+    "NAME":"Supersonic",
+    "DESCRIPTION":"Deal !D! damage to all enemy; When this card in your hard, The number of your Realm changed 1 times, cost of card will reduce 1 ; Retain "
+  },
+  "Fantasy_PerpetualMotionMachine_purple":{
+    "NAME":"「Perpetual Motion Machine」",
+    "DESCRIPTION":"At end of your turn,If the last card you use is Skill,Apply !M! Ookami_kakushi to all enemy."
+  },
+  "Boundary_DreamRealityDamnation_purple":{
+    "NAME":"「Reality and Dream」",
+    "DESCRIPTION":" Unplayable ;At end of your turn,Deal !D! Damage to all enemy; In your turn, every time your Realm changed,damage will increase !M! "
+  },
+  "Boundary_DynamicStaticEquilibrium_purple":{
+    "NAME":"「Dynamic and Static」",
+    "DESCRIPTION":"Choose one enemy,if its Ookami_Kakushi is at least 5, consume 5 levels of Ookami_Kakushi and Gain [E] ; Realm 2: Draw !M! card"
+  },
+  "Boundary_LightAndDark_purple":{
+    "NAME":"「Light and Dark」",
+    "DESCRIPTION":"Choose to exhaust !M! Cards, according to different card, you will gain different effect.Power:Gain 2 Realm ;Status:Gain 2 Metallicize ; Curse: Gain 1 Artifact "
+  },
+  "ButterflyHabitatTemple_purple":{
+    "NAME":"「Butterfly’s Leaving」",
+    "DESCRIPTION":"Gain !B! Block ;Choose 1 card from discard pile and add to your hand",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block ;Choose 1 card from discard pile and add to your hand;Choose additional 1 card"
+  },
+  "Mirror_Drifter_purple":{
+    "NAME":"Realm:「Spilled Drifts」",
+    "DESCRIPTION":"Deal !D! Damage;If Fatal :Gain !M! Gold;",
+    "UPGRADE_DESCRIPTION": "Deal !D! Damage;If Fatal :Gain !M! Gold;"
+  },
+  "Yakumo_Ran_purple":{
+    "NAME":"Shikigami「Ran」",
+    "DESCRIPTION":"Gain !B! Block;If your Realm is 0,Next turn you will Gain Power [E] ,Draw 2 Cards"
+  },
+  "MetroBOOM_purple":{
+    "NAME":"「Metro Bomb」",
+    "DESCRIPTION":" Realm 2 : Gain !M! Blur ;When this card is Exhaust, Gain 3 Bomb ;（ Bomb will deal !D! Damage）"
+  },
+  "Mirror_WaveAndshot":{
+    "NAME":"「Wave and Shot」",
+    "DESCRIPTION":"Choose !M! cards from discard pile and move to your hand; If your Realm isn’t 0, discard !M! cards"
+  },
+  "RealityDreamConfluencek_purple":{
+    "NAME":"Reality-Dream’s Crossing",
+    "DESCRIPTION":"Put 2 random cards in the bottom draw pile; Realm 2 :put 4 cards instead",
+    "UPGRADE_DESCRIPTION":"Put 2 random upgrade cards in the bottom of draw card; Realm 2 :put 4 upgrade cards instead"
+  },
+  "DistantPastFriend_purple":{
+    "NAME":"Acquaintance from Past",
+    "DESCRIPTION":"If an enemy isn’t a boss Apply !M! Fading; Ethereal ; Exhaust "
+  },
+  "DarkRealmRedLine_purple":{
+    "NAME":"Darkness's red line",
+    "DESCRIPTION":"Deal !D! Damage; NL Realm 3 :Heal !M! HP; NL Exhaust "
+  },
+  "CommonSense_AntiCommonSense_purple":{
+    "NAME":"Realm of Commonsense",
+    "DESCRIPTION":"In your turn, when You play two cards of different Card_Type in a row, Gain !M! Realm "
+  },
+  "WorldDissolvedintheRealm_purple":{
+    "NAME":"World melts in Realm",
+    "DESCRIPTION":"Deal !D! Hploss to all enemy; Realm 2 : If your Positivematter , Antimatter is 0, Deal additional 2 Hploss "
+  },
+  "Erosivefilter_purple": {
+    "NAME":"Erosive Filter",
+    "DESCRIPTION":"Gain !B! Block; Realm 3 : Remove one random Debuff of your own"
+  },
+  "Extrememeaning_purpleEX": {
+    "NAME":"Extreme meaning",
+    "DESCRIPTION":"Put two cards at the bottom of the draw pile into your hand and discard the skill cards; Realm 2 : Draw 2 cards"
+  },
+  "Boundary_of_Extermination_purpleEX": {
+    "NAME":"Boundary Extermination",
+    "DESCRIPTION":"At the end of your turn, if your draw pile is greater than or equal to 20 ,Deal !M! % player's MAX HP numbers Hploss "
+  },
+
+
+  "Fancifulhole_purple":{
+    "NAME":"Fanciful hole",
+    "DESCRIPTION":"Deal !D! Hploss ; Realm 2 :Deal “The number of enemy’s attack” times Hploss "
+  },
+  "Know_ledgeAbilityRealm_purple":{
+    "NAME":"「Known and ledge」",
+    "DESCRIPTION":"Deal !D! Hploss , increased by the number of enemy’s Ookami_kakushi (1 will increase 3 times of Damage); If you eliminated enemy, Draw 2 Cards, Gain [E] ",
+    "UPGRADE_DESCRIPTION":"Deal !D! Hploss , increased by the number of enemy’s Ookami_kakushi (1 will increase 3 times of Damage); If you eliminated enemy, Draw 2 Cards, Gain [E] [E] ; Retain "
+  },
+  "LoveAcrossDimensions_purple":{
+    "NAME":"Love Across Dimensions",
+    "DESCRIPTION":"You can't get PositiveMatter and Antimatter anymore;at the start of turn gain 2 Strength ; Forever ; Aspire_earnestly ; Ethereal ",
+    "UPGRADE_DESCRIPTION":"You can't get PositiveMatter and Antimatter anymore;at the start of turn gain 2 Strength ; Forever ; Aspire_earnestly "
+  },
+  "Mirror_TwoAndThreeElementRealm_purple":{
+    "NAME":"「Second-Third Element」",
+    "DESCRIPTION":" Unplayable ; Innate ;The damage you received will be healed next turn, Exhaust when you draw this card ",
+    "UPGRADE_DESCRIPTION":" Unplayable ; Innate ;The damage you received will be healed next turn, Draw one card when you draw this card, then Exhaust "
+  },
+  "WangLiang_LineAndCurveDreams_purple":{
+    "NAME":"「Curve and straight Dream」",
+    "DESCRIPTION":"Gain 2 Artifact ; Realm 3 : Exhaust all the Status and Curse card in Draw pile, discard pile and hand.",
+    "UPGRADE_DESCRIPTION":" Retain ; Gain 2 Artifact ; Realm 3 : Exhaust all the Status and Curse card in Draw pile, discard pile and hand."
+  },
+  "WangLiang_OokamiKakushi_purple":{
+    "NAME":"「OokamiKakush of Yukari」",
+    "DESCRIPTION":" Realm 2 : Deal !D! % of present Hp Damage to an enemy isn’t Minion,hit 4times,Every times lose 5% HP; Retain ; Exhaust "
+  },
+  "Monsters_DoubleDeathButterfly_purple": {
+    "NAME":"「Butterfly dies twice」",
+    "DESCRIPTION":" Bring the max Realm to 5 (MAX 10), If your Realm higher than 5,Every time when your Realm reduced, Gain [E] ",
+    "UPGRADE_DESCRIPTION":" Bring the max Realm to 5 (MAX 10), If your Realm higher than 5, Every time when your Realm reduced, Gain [E] [E] "
+  },
+  "MagicEyes_LaplaceDemon_purple":{
+    "NAME":"「Laplace’s Magic Eyes」",
+    "DESCRIPTION":"Every one attack card in your draw pile will put one random card in Draw pile; Realm3 : Scry !M! ; Exhaust ",
+    "UPGRADE_DESCRIPTION":" Every one attack card in your draw pile will put one random upgrade card in Draw pile; Realm 3 : Scry !M! ; Exhaust "
+  },
+  "Boundary_LifeAndDeath_purple": {
+    "NAME": "「Alive and Death」",
+    "DESCRIPTION": "Draw !M! cards; Realm 4 : Gain [E] [E] ; Exhaust "
+  },
+  "WasteWire_Metro_purple":{
+    "NAME":"「Station and Journey」",
+    "DESCRIPTION":"Deals damage to all enemies equal to !M! times the number of your positive effects",
+    "UPGRADE_DESCRIPTION":"Deals damage to all enemies equal to !M! times the number of your positive effects; Remain "
+  },
+  "Human_Monster_Realm_purple": {
+    "NAME":"「Human and Monster」",
+    "DESCRIPTION":"Next card you use will trigger twice; Exhaust ",
+    "UPGRADE_DESCRIPTION":" Next card you use will trigger twice;"
+  },
+  "BarrageBoundary_PipeDream_purple": {
+    "NAME":"「Deep Barrage Boundary」",
+    "DESCRIPTION":"Remove all of your Realm ; Deal !M! times(the number of your lost Realm ) Hploss "
+  },
+  "D_absorption_purple": {
+    "NAME":"Damage Absorption",
+    "DESCRIPTION":"Next damage that isn’t be blocked will be absorb,And record all the damage you absorbed; Antimatter will not work in this turn; At the start of next turn give you a “ Damagerelease ” card."
+  },
+  "ContainerChange_purple":{
+    "NAME":"Change of Container",
+    "DESCRIPTION":"At end if your turn, Your Positivematter and Antimatter will not be removed",
+    "UPGRADE_DESCRIPTION":" Innate ;At end if your turn, Your Positivematter and Antimatter will not be removed "
+  },
+  "UniverseChoice_purple":{
+    "NAME":"The Chosen Girl",
+    "DESCRIPTION":" Retain ; Realm 5 :Gain HealthLock (heal 30% max HP); Force ; Eliminate ",
+    "UPGRADE_DESCRIPTION":" Retain ; Realm 5 :Gain HealthLock (heal 40% max HP); Force ; Eliminate "
+  },
+  "ProofOfUnderstanding_purple":{
+    "NAME":"Proof of comprehender",
+    "DESCRIPTION":"When enemy has been Ookami_kakushi , Takes Hploss equal to number of Ookami_kakushi at end of turn, and Gain 1 Ookami_kakushi ; Ookami_kakushi will not reduce caused by Hploss damage ",
+    "UPGRADE_DESCRIPTION":" Innate ; When enemy has been Ookami_kakushi , Takes Hploss equal to number of Ookami_kakushi at end of turn, and Gain 1 Ookami_kakushi ; Ookami_kakushi will not reduce caused by Hploss damage. "
+ },
+  "Theboundaryofcreation_purpleEX": {
+    "NAME":"Boundary of creation",
+    "DESCRIPTION":"Discovery 1 card;Select 1 card move to the bottom of draw pile",
+    "UPGRADE_DESCRIPTION":"Discovery 1 card;Select 1 card move to the bottom of draw pile,and upgrade it"
+  },
+  "GluttonyofRealm_purpleEX": {
+    "NAME":"Gluttony of Realm",
+    "DESCRIPTION":"Deal !D! Hploss ;If Fatal :Gain !M! MAXHP; Exhaust "
+  },
+  "Price_of_realm_purpleEX": {
+    "NAME":"Price of realm",
+    "DESCRIPTION":" Realm 3 :Add your hand to !M! ;Thereafter,every card you draw in this turn,lose 2 HP",
+    "UPGRADE_DESCRIPTION":" Realm 3 :Add your hand to !M! ；Thereafter,every card you draw in this turn, you lose 2 HP"
+  },
+  "Computing_the_future_purpleEX": {
+    "NAME":"Computing the future",
+    "DESCRIPTION":"At the end of your turn, if your draw pile is greater than or equal to 20 , Scry !M! at the end of turn"
+  }
+}

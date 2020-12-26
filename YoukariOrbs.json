@@ -1,0 +1,11 @@
+{
+  "AntimatterShow": {
+    "NAME": "Antimatter universe",
+    "DESCRIPTION":["When you take #b3 #bSkill card in the same round,Gain 1 #yAntimatter  #b==================== #yAntimatter :When you Gain #yBlock from your card, Gain additional #yAntimatter's amount times that base Block, Remove all amount at the end of turn #b==================== (This is an indicator)"]
+  },
+
+  "PositivematterShow": {
+    "NAME": "Positivematter universe",
+    "DESCRIPTION":["When you take #b3 #bAttack card in the same round,Gain 1 #yPositivematter  #b==================== #yPositivematter : Every time when you apply #yHploss, Deal additional #yPositiveMatter's amount times that #yHploss Damage, Remove all amount at the end of turn #b==================== (This is an indicator)"]
+  }
+}

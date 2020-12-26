@@ -1,0 +1,18 @@
+BaseMod.addKeyword(new String[]{"Positivematter", "positivematter"}, "Every time when you apply Hploss, Deal additional PositiveMatter's amount times that Hploss Damage, Remove all amount at the end of turn");
+            BaseMod.addKeyword(new String[]{"Antimatter", "antimatter"}, "When you Gain Block from your card, Gain additional Antimatter's amount times that base Block, Remove all amount at the end of turn");
+            BaseMod.addKeyword(new String[]{"Realm", "realm"}, "When you use certain special Cards£¬It will reduce your Realm so that can make additional effects; At the end of battle, Every 1 Realm , will heal 1 HP; Your Realm cannot over 5");
+            BaseMod.addKeyword(new String[]{"Hploss", "hploss"}, "Hploss's Damage can ignore block value and can't be hit back");
+            BaseMod.addKeyword(new String[]{"DamageRemove", "damageremove"}, "You will neutralize enemy¡¯s next attack and save that Damage value");
+            BaseMod.addKeyword(new String[]{"DamageReturn", "damagereturn"}, "Stored offset damage");
+            BaseMod.addKeyword(new String[]{"Damagerelease", "damagerelease"}, "Damage Release is a Attackcard of cost 0");
+            BaseMod.addKeyword(new String[]{"Ookami_kakushi", "ookami_kakushi"}, "The goal of owning this power takes Hploss every time,it will be equated with Ookamikakushi's amount damage,then Ookamikakushi's amount reduce 1");
+            BaseMod.addKeyword(new String[]{"DamageReturn", "damageReturn"}, "Stored offset damage");
+            BaseMod.addKeyword(new String[]{"Bomb", "bomb"}, "Bomb will explodes after a certain turn to deal damage");
+            BaseMod.addKeyword(new String[]{"Fading", "fading"}, "Targets with Fading will die when their amount reaches 0 and at the end of each turn,Fading will reduce 1");
+            BaseMod.addKeyword(new String[]{"HealthLock", "healthlock"}, "When you are going to receive fatal damage, lock your HP at 1,you will recover a certain amount of HP;Remove this power at the start of turn");
+            BaseMod.addKeyword(new String[]{"Force", "force"}, "When you play this card ,Force end round");
+            BaseMod.addKeyword(new String[]{"Eliminate", "eliminate"}, "When you play this card ,Remove this card from your deck");
+            BaseMod.addKeyword(new String[]{"Forever","forever"},"For every 5 Realm layers obtained, 1 Metallicize was obtained by consuming 5 Realm layers");
+            BaseMod.addKeyword(new String[]{"Aspire_earnestly","aspire_earnestly"},"the first card played in each round will be played twice");
+            BaseMod.addKeyword(new String[]{"Card_Type","card_type"},"The Card_Types are attack , skill , power , state and curse ");
+            BaseMod.addKeyword(new String[]{"Metallicize","metallicize"},"At the end of your turn, gain a certain Block");
